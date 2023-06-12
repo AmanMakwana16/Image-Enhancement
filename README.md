@@ -1,3 +1,3 @@
-# Image_Filters-Page
+# Image_Enhancement
  
- link to the image filter page : https://ashutoshgupta1.github.io/Image_Filters-Page/
+
